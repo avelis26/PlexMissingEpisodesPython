@@ -1,5 +1,6 @@
 # PlexMissingEpisodes
 
+I've forked https://github.com/MysticRyuujin/PlexMissingEpisodes to convert it to python, schedule it as a CRON job, and update an apache dashboard.
 Scripts for finding missing episodes from your Plex library.
 
 Edit the variables at the top of the script with your TheTVDB authentication information and set the PlexServer as required...
